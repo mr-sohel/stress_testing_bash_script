@@ -1,13 +1,13 @@
 #include <bits/stdc++.h>
 
-//solution is fast but maybe not currect
+//solution is fast, but maybe incorrect.
 
 using namespace std;
 
 void solve() {
 	int n;
 	cin >> n;
-	int ans = ((long long)n * (n + 1)) / 2;
+	long long ans = ((long long)n * (n + 1)) / 2;
 	cout << ans << endl;
 }
 
