@@ -1,6 +1,6 @@
 ### stress_testing_bash_script
 
-##This script only works in Linux Terminal and for C++ codes
+**This script only works in Linux Terminal and for C++ codes**
 
 Download this repository manually or by using `git clone` on the terminal.
 
