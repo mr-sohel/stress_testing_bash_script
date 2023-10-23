@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 
-//slow but currect solution
+//slow but correct solution
 
 using namespace std;
 
