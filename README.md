@@ -2,8 +2,8 @@
 
 Download this repository manually or by using git clone on terminal.
 
-+Copy your original solution which you expect might fail in the file `sol.cpp`
-+Copy your brute force solution which is expected to give correct output in the file `brute.cpp`
+-Copy your original solution which you expect might fail in the file `sol.cpp`
+*Copy your brute force solution which is expected to give correct output in the file `brute.cpp`
 +Change the `test_gen.cpp` file so as to generate test cases according to the question.
 
 Now open your terminal in the directory where file stress_test.sh resides and run command:
