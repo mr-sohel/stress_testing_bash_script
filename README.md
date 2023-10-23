@@ -16,5 +16,5 @@ If it shows permission denied, then give it execute permission using: <br>
 $ `sudo chmod +x stress_testing.sh` <br>
 
 Verdict: the verdict of running file `stress_testing.sh` in every test case is either **Accepted** if your solution's output matches the brute solution's output or **Wrong Answer** and the script will be terminated. <br>
-It will show you the input where your `sol. cpp` fails. <br>
+It will show you the input where your `sol.cpp` fails. <br>
 If you wish to terminate the script at any moment,  use the command `ctrl + c` in the terminal.
