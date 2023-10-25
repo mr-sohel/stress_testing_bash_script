@@ -7,7 +7,7 @@ orange=$(tput setaf 178);
 bold=$(tput bold);
 reset=$(tput sgr0);
 
-echo "Compiling Files"
+echo "Compiling Codes"
 
 g++ -std=gnu++17 -O2 -Wall -o test_gen test_gen.cpp
 g++ -std=gnu++17 -O2 -Wall -o sol sol.cpp
